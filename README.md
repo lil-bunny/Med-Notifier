@@ -1,4 +1,4 @@
-# lib
+# Med-Notifier
 
 This Apps gives you remainder or Alarm to take you daily medicine  time to time which we have a tendency to 
 forget sometimes.
